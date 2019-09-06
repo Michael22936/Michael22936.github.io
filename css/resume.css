@@ -121,6 +121,11 @@ p.lead {
     max-height: 10rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
+
+  .img-fluid{
+    height: 150px;
+  }
+
   #sideNav .navbar-collapse {
     display: -webkit-box;
     display: -ms-flexbox;
